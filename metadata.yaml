@@ -1,0 +1,34 @@
+_repo: The-Stones-of-Paris-in-History-and-Letters-Volume-II--of-2-_42367
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42367-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Martin, Benjamin Ellis
+    deathdate: 1909
+    gutenberg_agent_id: '41426'
+    url: http://www.gutenberg.org/2009/agents/41426
+  - agent_name: Martin, Charlotte M.
+    gutenberg_agent_id: '41427'
+    url: http://www.gutenberg.org/2009/agents/41427
+description: ''
+gutenberg_issued: '2013-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42367'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Molière, 1622-1673 -- Homes and haunts -- France -- Paris'
+- !lcc 'DC'
+- !lcsh 'Literary landmarks -- France -- Paris'
+- !lcsh 'Authors, French -- Homes and haunts -- France -- Paris'
+- !lcsh 'Paris (France) -- Intellectual life'
+tableOfContents: The Southern Bank in the nineteenth century -- The Paris of Honoré
+  de Balzac -- The Paris of Alexandre Dumas -- The Paris of Victor Hugo -- The making
+  of the Marais -- The women of the Marais.
+title: The Stones of Paris in History and Letters, Volume 2 (of 2)
+url: http://www.gutenberg.org/ebooks/42367
